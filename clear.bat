@@ -1,0 +1,1 @@
+for /f %%A in ('dir /S /A-D /B build\*.o') do del %%A

@@ -1,0 +1,1 @@
+qemu-system-x86_64 -L OVMF_dir -pflash OVMF.fd -m 4G -cdrom HalOS.iso
